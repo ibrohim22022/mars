@@ -1,0 +1,89 @@
+.sarik{
+color: yellow;
+text-align: center;}
+
+html{
+text-align: center;
+}
+
+.green{
+color: green;}
+
+.kok{
+background-color: black;
+height: 100vh;
+}
+
+
+
+.kosmos img {
+    border: 2px solid yellow;
+}
+table{
+    border: 1px solid #00000000;
+    border-collapse: collapse;
+    width: 1310px;
+    height: 40px;
+    text-align: center;}
+    
+    td, th{
+    border: 1px solid yellow;
+    font-size: 20px;
+    text-transform: capitalize;}
+    
+    
+    
+    .qizil{
+    background-color: black;
+    color: white;}
+    
+    .yashil{
+    background-color: black;
+    color: white;}
+    
+    .qora{
+    background-color: black;
+color: white;    
+}
+    
+
+
+    
+    .title{
+    text-align: center;
+    background-color: aqua;
+    width: 500px;}
+    
+    .oq{
+    background-color: white;}
+
+    .dark{
+    background-color: darkblue;
+color: white;}
+
+.oq{
+background-color: darkblue;
+color: white;}
+
+.black{
+background-color: darkblue;
+color: white;}
+
+.ks{
+color: white;}
+
+.input{
+    width: 1310px;
+    height: 20px;}
+
+b{
+color: white;
+font-size: 9px;}
+
+button{
+color: black;
+padding-left: 100px;
+padding-right: 100px;
+border-radius: 50px;
+background-color: yellow;
+}
